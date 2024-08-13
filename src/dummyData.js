@@ -71,7 +71,7 @@ export const userData = [
   {
     id: 1,
     UserName: "Jon Snow",
-    avatar: "./image/img.jpg",
+    avatar: "./image/img1.jpg",
     email: "Jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -79,7 +79,7 @@ export const userData = [
   {
     id: 2,
     UserName: "Jon Snow",
-    avatar: "./image/img.jpg",
+    avatar: "./image/img1.jpg",
     email: "Jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -87,7 +87,7 @@ export const userData = [
   {
     id: 3,
     UserName: "Jon Snow",
-    avatar: "./image/img.jpg",
+    avatar: "./image/img1.jpg",
     email: "Jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -95,7 +95,7 @@ export const userData = [
   {
     id: 4,
     UserName: "Jon Snow",
-    avatar: "./image/img.jpg",
+    avatar: "./image/img1.jpg",
     email: "Jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -103,7 +103,7 @@ export const userData = [
   {
     id: 5,
     UserName: "Jon Snow",
-    avatar: "./image/img.jpg",
+    avatar: "./image/img1.jpg",
     email: "Jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -111,7 +111,7 @@ export const userData = [
   {
     id: 6,
     UserName: "Jon Snow",
-    avatar: "./image/img.jpg",
+    avatar: "./image/img1.jpg",
     email: "Jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -119,7 +119,7 @@ export const userData = [
   {
     id: 7,
     UserName: "Jon Snow",
-    avatar: "./image/img.jpg",
+    avatar: "./image/img1.jpg",
     email: "Jon@gmail.com",
     status: "active",
     transaction: "$120.00",
@@ -127,7 +127,7 @@ export const userData = [
   {
     id: 8,
     UserName: "Jon Snow",
-    avatar: "./image/img.jpg",
+    avatar: "./image/img1.jpg",
     email: "Jon@gmail.com",
     status: "active",
     transaction: "$120.00",

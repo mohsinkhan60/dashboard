@@ -20,7 +20,7 @@ const UserList = () => {
       renderCell: (params) => {
         return (
           <div className="ProductListUser">
-            <img className="ProductListImg" src={params.row.img} alt="" />
+            <img className="ProductListImg" src={params.row.avatar} alt="" />
             {params.row.UserName}
           </div>
         );
